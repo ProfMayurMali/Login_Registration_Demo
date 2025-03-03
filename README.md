@@ -28,7 +28,7 @@ This project is a  web-based user authentication system  that enables users to  
 -  PHP  – Handles authentication and database interactions
 -  MySQL  – Stores user data securely
 
-   Hosting (Optional)**
+   Hosting (Optional)
 -  000WebHost / InfinityFree  – Free hosting
 -  Hostinger / GoDaddy  – Paid hosting options
 
