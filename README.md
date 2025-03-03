@@ -1,7 +1,7 @@
 # Web-Based User Authentication System
 
   Introduction
-This project is a  web-based user authentication system  that enables users to  register, log in, and access protected content**. It is built using  HTML, CSS, and JavaScript  for the frontend and  PHP with MySQL  for the backend. The system ensures secure user authentication with password hashing and session management.
+This project is a  web-based user authentication system  that enables users to  register, log in, and access protected content. It is built using  HTML, CSS, and JavaScript  for the frontend and  PHP with MySQL  for the backend. The system ensures secure user authentication with password hashing and session management.
 
 ---
 
